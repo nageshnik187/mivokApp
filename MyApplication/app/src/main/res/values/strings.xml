@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="family_members_text">Family Members</string>
+
+    <string name="numbers_text">Numbers</string>
+
+    <string name="color_text">Color</string>
+
+    <string name="phrases_text">Phrases</string>
+</resources>
